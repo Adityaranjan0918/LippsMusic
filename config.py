@@ -36,7 +36,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Lippsxd/LippsMusicBot",
+    "https://github.com/adityaranjan0918/LippsMusicBot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "lippsxd")
 GIT_TOKEN = getenv(
@@ -81,26 +81,26 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/8bdea9d933e1a0bb08035.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/ffc579304cbd6ccc0f001.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "LippsMusic/assets/Ping.jpeg",
+    "https://graph.org/file/ffc579304cbd6ccc0f001.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "LippsMusic/assets/Playlist.jpeg",
+    "https://graph.org/file/ffc579304cbd6ccc0f001.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "LippsMusic/assets/Global.jpeg",
+    "https://graph.org/file/ffc579304cbd6ccc0f001.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "LippsMusic/assets/Stats.jpeg",
+    "https://graph.org/file/ffc579304cbd6ccc0f001.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
