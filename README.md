@@ -5,7 +5,7 @@
 <img src="https://graph.org/file/cc41b9fed2c5c87f14044.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
- <a href="https://github.com/adityaranjan0918/Lippsmusic /stargazers"><img src="https://img.shields.io/github/stars/adityaranjan0918/Lippsmusic ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/adityaranjan0918/Lippsmusic /network/members"> <img src="https://img.shields.io/github/forks/Lippsxd/Lippsmusicbot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/adityaranjan0918/Lippsmusic /stargazers"><img src="https://img.shields.io/github/stars/adityaranjan0918/Lippsmusic ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/adityaranjan0918/Lippsmusic /network/members"> <img src="https://img.shields.io/github/forks/adityaranjan0918/Lippsmusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  </p> 
  ━━━━━━━━━━━━━━━━━━━━
