@@ -1,7 +1,7 @@
 import os, time
 import openai
 from pyrogram import filters
-from DEVIL import app
+from LippsMusic import app
 from pyrogram.enums import ChatAction, ParseMode
 from gtts import gTTS
 
